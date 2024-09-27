@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\medin\\Desktop\\First Api part 2\\Mangas.csproj": {}
+    "C:\\Users\\medin\\Desktop\\Tareas\\Aplicaciones web Orientadas a Servicios\\First Api part 2\\Mangas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\medin\\Desktop\\First Api part 2\\Mangas.csproj": {
+    "C:\\Users\\medin\\Desktop\\Tareas\\Aplicaciones web Orientadas a Servicios\\First Api part 2\\Mangas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\medin\\Desktop\\First Api part 2\\Mangas.csproj",
+        "projectUniqueName": "C:\\Users\\medin\\Desktop\\Tareas\\Aplicaciones web Orientadas a Servicios\\First Api part 2\\Mangas.csproj",
         "projectName": "Mangas",
-        "projectPath": "C:\\Users\\medin\\Desktop\\First Api part 2\\Mangas.csproj",
+        "projectPath": "C:\\Users\\medin\\Desktop\\Tareas\\Aplicaciones web Orientadas a Servicios\\First Api part 2\\Mangas.csproj",
         "packagesPath": "C:\\Users\\medin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\medin\\Desktop\\First Api part 2\\obj\\",
+        "outputPath": "C:\\Users\\medin\\Desktop\\Tareas\\Aplicaciones web Orientadas a Servicios\\First Api part 2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\medin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -46,6 +46,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[8.0.3, )"
